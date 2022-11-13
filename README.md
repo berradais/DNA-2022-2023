@@ -1,14 +1,28 @@
-# Course of "Tools for Data Science"
+# "Tools for Data Science"
 
-### Colab: colab.research.google.com
+### **Commentary:** 
+I had no merits in this repo (except):
+
+    - Gathering concepts from the web 
+    - Reading papers, blogs and posts
+    - Adding a touch of flavor to my presentation
+
+### **Colab:** 
 
 You can run course notebooks into colab: 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/berradais/light-dna-2020-2021/)    
+colab.research.google.com
 
 
-### Content
+Please connect your drive to colab to save changes:
+```
+from google.colab import drive
+drive.mount('/content/gdrive')
+```
 
+### **Content**
+````
 0. Part 0: Environment setup
     - Introduction to python ecosystem
     - GIT
@@ -38,3 +52,4 @@ You can run course notebooks into colab:
     - Model deployment
     - Case study
 
+````
